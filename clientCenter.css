@@ -166,6 +166,7 @@ button {
 
 .client-center_info h2 {
   font-weight: 700;
+  margin-bottom: 10px;
 }
 
 .client-center_time {
@@ -183,6 +184,7 @@ button {
 }
 
 .contact-info {
+  margin-top: 10px;
   display: grid;
   gap: 8px;
 }
